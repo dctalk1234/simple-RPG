@@ -1,0 +1,5 @@
+﻿  Boss.cpp
+  Main.cpp
+c:\users\nathaniel stack\documents\oop\lab 8\lab 8\main.cpp(473): warning C4101: 'selection': unreferenced local variable
+  Generating Code...
+  Lab 8.vcxproj -> C:\Users\Nathaniel Stack\Documents\OOP\Lab 8\Debug\Lab 8.exe

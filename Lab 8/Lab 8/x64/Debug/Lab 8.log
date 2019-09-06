@@ -1,0 +1,25 @@
+﻿  BackPack.cpp
+  Boss.cpp
+  Character.cpp
+c:\users\nathaniel stack\documents\oop\lab 8\lab 8\character.cpp(98): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+c:\users\nathaniel stack\documents\oop\lab 8\lab 8\character.cpp(99): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+c:\users\nathaniel stack\documents\oop\lab 8\lab 8\character.cpp(106): warning C4244: '-=': conversion from 'double' to 'int', possible loss of data
+c:\users\nathaniel stack\documents\oop\lab 8\lab 8\character.cpp(110): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\nathaniel stack\documents\oop\lab 8\lab 8\character.cpp(115): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+  CoinPouch.cpp
+  cString.cpp
+c:\users\nathaniel stack\documents\oop\lab 8\lab 8\cstring.cpp(23): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+c:\users\nathaniel stack\documents\oop\lab 8\lab 8\cstring.cpp(95): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+c:\users\nathaniel stack\documents\oop\lab 8\lab 8\cstring.cpp(203): warning C4305: 'initializing': truncation from 'int' to 'char'
+c:\users\nathaniel stack\documents\oop\lab 8\lab 8\cstring.cpp(203): warning C4309: 'initializing': truncation of constant value
+  DynamicArray.cpp
+  list.cpp
+  Main.cpp
+c:\users\nathaniel stack\documents\oop\lab 8\lab 8\main.cpp(461): warning C4101: 'selection': unreferenced local variable
+  Monster.cpp
+  node.cpp
+  Potion.cpp
+  PrimaryEnemy.cpp
+  SecondaryEnemy.cpp
+  Generating Code...
+  Lab 8.vcxproj -> C:\Users\Nathaniel Stack\Documents\OOP\Lab 8\x64\Debug\Lab 8.exe
